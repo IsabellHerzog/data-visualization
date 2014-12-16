@@ -1,2 +1,2 @@
-Link: It's not possible to upload a index.php
+Link: It's not possible to create a github-page with my index.php
 ==================
