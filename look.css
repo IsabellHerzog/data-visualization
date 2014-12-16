@@ -1,0 +1,17 @@
+body {font-family: 'Open Sans Condensed', sans-serif; font-size: 14px; margin-left: 48px; margin-top: 43px;}
+#part1 {font-family: 'abril-fatface', serif; font-size: 135px; margin-top:10px; margin-bottom:10px; padding:5px;}
+#part2 {font-family: 'abril-fatface', serif; font-size: 30px; margin-top:10px; margin-bottom:10px;}
+#part3 {font-family: 'abril-fatface', serif; font-size: 30px; margin-top:10px; margin-bottom:10px;}
+h2 {font-size: 23px;}
+
+
+ #bigButton {
+     cursor: pointer;
+     font-family: 'Open Sans Condensed', sans-serif;
+     font-size: 23px;
+     color: #FFFFFF ;
+     background-color: #000000;
+     width: 300px;
+     padding: 2px;
+     line-height: 130%;
+ }
